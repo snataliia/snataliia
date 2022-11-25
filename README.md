@@ -20,9 +20,12 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/snataliia/checklist.git)
-- [Test-Suites and Test-Cases](https://github.com/snataliia/test-cases.git)
-- [Bug-Reports](https://github.com/snataliia/bug-reports.git)
+- [Checklists](https://drive.google.com/drive/folders/19CEfjViCLbtwHr4UX10Xn5CLkSVlMnXY?usp=sharing)
+- [Test-Suites and Test-Cases](https://drive.google.com/drive/folders/17167j3F7Ef7MjUbpV8r223GnOjuHAqzW?usp=share_link)
+- [Bug-Reports](https://drive.google.com/drive/folders/1jINoqQwJpehGvX0SLPdGz_hCjj1M0esX?usp=share_link)
+- [Test-Plan](https://drive.google.com/drive/folders/1E4otfIWkP8vz2GM74XB7JKAWaKjK3Dwa?usp=sharing)
+- [HTML-CSS](https://iridescent-trifle-ff0493.netlify.app)
+
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Nataliia_Sushko)
