@@ -1,4 +1,6 @@
 [![Header](https://github.com/snataliia/snataliia/blob/main/assets/images.png)
+<img src="https://github.com/snataliia/snataliia/blob/main/assets/images.png" alt="" width="180"/>
+
 ## I'm a beginner QA Engineer. 
  
 ## My CV
@@ -16,6 +18,7 @@
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![Header](https://img.shields.io/badge/vscode-090909?style=for-the-badge&logo=vscode&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
 
 ### Testing Documentation
