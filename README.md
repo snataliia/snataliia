@@ -1,6 +1,4 @@
 [![Header](https://github.com/snataliia/snataliia/blob/main/assets/images.png)
-<img src="https://github.com/snataliia/snataliia/blob/main/assets/images.png" alt="" width="180"/>
-
 ## I'm a beginner QA Engineer. 
  
 ## My CV
@@ -20,7 +18,10 @@
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/vscode-090909?style=for-the-badge&logo=vscode&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=71b556)
-
+![Header](https://img.shields.io/badge/TestLink-090909?style=for-the-badge&logo=TestLink&logoColor=71b556)
+![Header](https://img.shields.io/badge/MantisBT-090909?style=for-the-badge&logo=MantisBT&logoColor=71b556)
+![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML&logoColor=71b556)
+![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS&logoColor=71b556)
 ### Testing Documentation
 
 - [Checklists](https://drive.google.com/drive/folders/19CEfjViCLbtwHr4UX10Xn5CLkSVlMnXY?usp=sharing)
@@ -33,4 +34,5 @@
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Nataliia_Sushko)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/nataliia-sushko/)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/nataliya.sushko.7/)
 
