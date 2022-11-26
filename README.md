@@ -1,4 +1,4 @@
-[![Header](https://github.com/snataliia/snataliia/blob/main/assets/images.png)
+![Header](https://github.com/snataliia/snataliia/blob/main/assets/images.png)
 ## I'm a beginner QA Engineer. 
  
 ## My CV
