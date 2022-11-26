@@ -2,7 +2,7 @@
 ## I'm a beginner QA Engineer. 
  
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1446Qi1knR0tE_7I14WI9We5Z-rLRK7Ic/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1psASsgzy2Rjj_lcOPohOQmKlLrw0a1Br/view?usp=share_link)
 
 ## My certificates
 [Link to my certificates](https://drive.google.com/drive/folders/1s7UsyhV8a-f8t4_bpmthkmQ5Y0kgy0qC?usp=share_link)
