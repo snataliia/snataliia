@@ -22,6 +22,10 @@
 ![Header](https://img.shields.io/badge/MantisBT-090909?style=for-the-badge&logo=MantisBT&logoColor=71b556)
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML&logoColor=71b556)
 ![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS&logoColor=71b556)
+![Header](https://img.shields.io/badge/WIX-090909?style=for-the-badge&logo=WIX&logoColor=71b556)
+![Header](https://img.shields.io/badge/ActiveCampaign-090909?style=for-the-badge&logo=ActiveCampaign&logoColor=71b556)
+![Header](https://img.shields.io/badge/Zapier-090909?style=for-the-badge&logo=Zapier&logoColor=71b556)
+
 ### Testing Documentation
 
 - [Checklists](https://drive.google.com/drive/folders/19CEfjViCLbtwHr4UX10Xn5CLkSVlMnXY?usp=sharing)
@@ -29,6 +33,8 @@
 - [Bug-Reports](https://drive.google.com/drive/folders/1jINoqQwJpehGvX0SLPdGz_hCjj1M0esX?usp=share_link)
 - [Test-Plan](https://drive.google.com/drive/folders/1E4otfIWkP8vz2GM74XB7JKAWaKjK3Dwa?usp=sharing)
 - [HTML-CSS](https://iridescent-trifle-ff0493.netlify.app)
+- [Marketing automation](https://teplodim2015.wixsite.com/snow-therapy)
+   
 
 
 ### Follow Me
