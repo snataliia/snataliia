@@ -13,7 +13,7 @@
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/vscode-090909?style=for-the-badge&logo=vscode&logoColor=3ad07d)
@@ -25,6 +25,7 @@
 ![Header](https://img.shields.io/badge/WIX-090909?style=for-the-badge&logo=WIX&logoColor=71b556)
 ![Header](https://img.shields.io/badge/ActiveCampaign-090909?style=for-the-badge&logo=ActiveCampaign&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Zapier-090909?style=for-the-badge&logo=Zapier&logoColor=71b556)
+![Header](https://img.shields.io/badge/Javascript-090909?style=for-the-badge&logo=Javascript&logoColor=71b556)
 
 ### Testing Documentation
 
@@ -34,7 +35,8 @@
 - [Test-Plan](https://drive.google.com/drive/folders/1E4otfIWkP8vz2GM74XB7JKAWaKjK3Dwa?usp=sharing)
 - [HTML-CSS](https://iridescent-trifle-ff0493.netlify.app)
 - [Marketing automation](https://teplodim2015.wixsite.com/snow-therapy)
-   
+- [PostgreSQL](https://drive.google.com/drive/folders/1dkL4Y_1A0D1wThJASBDFCZ_jiWgwyKiU?usp=sharing)
+ - [Javascript](https://drive.google.com/drive/folders/10SBLg1-kcroZlEgSCcXAlJaZnVfokgnt?usp=sharing)  
 
 
 ### Follow Me
