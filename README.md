@@ -36,7 +36,7 @@
 - [HTML-CSS](https://iridescent-trifle-ff0493.netlify.app)
 - [Marketing automation](https://teplodim2015.wixsite.com/snow-therapy)
 - [PostgreSQL](https://drive.google.com/drive/folders/1dkL4Y_1A0D1wThJASBDFCZ_jiWgwyKiU?usp=sharing)
- - [Javascript](https://drive.google.com/drive/folders/10SBLg1-kcroZlEgSCcXAlJaZnVfokgnt?usp=sharing)  
+ - [JavaScript](https://drive.google.com/drive/folders/10SBLg1-kcroZlEgSCcXAlJaZnVfokgnt?usp=sharing)  
 
 
 ### Follow Me
