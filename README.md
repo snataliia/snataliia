@@ -26,6 +26,7 @@
 ![Header](https://img.shields.io/badge/ActiveCampaign-090909?style=for-the-badge&logo=ActiveCampaign&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Zapier-090909?style=for-the-badge&logo=Zapier&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Javascript-090909?style=for-the-badge&logo=Javascript&logoColor=71b556)
+![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=71b556)
 
 ### Testing Documentation
 
@@ -36,7 +37,8 @@
 - [HTML-CSS](https://iridescent-trifle-ff0493.netlify.app)
 - [Marketing automation](https://teplodim2015.wixsite.com/snow-therapy)
 - [PostgreSQL](https://drive.google.com/drive/folders/1dkL4Y_1A0D1wThJASBDFCZ_jiWgwyKiU?usp=sharing)
- - [JavaScript](https://drive.google.com/drive/folders/10SBLg1-kcroZlEgSCcXAlJaZnVfokgnt?usp=sharing)  
+- [JavaScript](https://drive.google.com/drive/folders/10SBLg1-kcroZlEgSCcXAlJaZnVfokgnt?usp=sharing) 
+- [Python](https://fex.net/uk/s/dxzxlld)
 
 
 ### Follow Me
